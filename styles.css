@@ -1,0 +1,29 @@
+h1{
+    color: rgb(98, 94, 145);
+}
+h2 {
+    color: rgb(127, 123, 181);
+}
+table{
+    width:fit-content 120px;
+    border-color: rgb(255, 207, 193);
+}
+
+
+th{
+    color:rgb(198, 122, 122);
+}
+
+td{
+color:rgb(134, 81, 81)
+}
+
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#descricao{
+    border: 4px solid rgb(203, 166, 223);
+    margin: 30px;
+}
+
